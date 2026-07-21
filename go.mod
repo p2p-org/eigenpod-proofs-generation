@@ -5,7 +5,7 @@ go 1.21
 toolchain go1.21.7
 
 require (
-	github.com/Layr-Labs/eigensdk-go v0.1.3
+	github.com/Layr-Labs/eigensdk-go v0.3.0
 	github.com/attestantio/go-eth2-client v0.19.9
 	github.com/caarlos0/env v3.5.0+incompatible
 	github.com/ethereum/go-ethereum v1.13.14
