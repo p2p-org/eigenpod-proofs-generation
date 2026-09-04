@@ -2,7 +2,7 @@ module github.com/p2p-org/eigenpod-proofs-generation
 
 go 1.21
 
-toolchain go1.21.7
+toolchain go1.27.1
 
 require (
 	github.com/Layr-Labs/eigensdk-go v0.1.3
